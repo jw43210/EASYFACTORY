@@ -1,0 +1,5 @@
+https://github.com/SMEasyFactory/EASYFACTORY
+
+username : 깃허브 ID
+password : 깃허브 토큰
+
